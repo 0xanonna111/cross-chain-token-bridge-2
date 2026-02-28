@@ -1,0 +1,12 @@
+{
+  "name": "cross-chain-token-bridge",
+  "version": "1.0.0",
+  "description": "Burn-and-Mint Cross-Chain Bridge Infrastructure",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0"
+  },
+  "scripts": {
+    "compile": "hardhat compile"
+  }
+}
